@@ -1,0 +1,58 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap www.ikea.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-24 00:24 UTC
+Nmap scan report for www.ikea.com (23.192.16.43)
+Host is up (0.011s latency).
+rDNS record for 23.192.16.43: a23-192-16-43.deploy.static.akamaitechnologies.com
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 15.14 seconds
+
+
+
+
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 80 www.ikea.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-24 00:26 UTC
+Nmap scan report for www.ikea.com (23.192.16.43)
+Host is up (0.012s latency).
+rDNS record for 23.192.16.43: a23-192-16-43.deploy.static.akamaitechnologies.com
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 11.16 seconds
+
+
+
+
+
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 200-250 www.ikea.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-24 00:27 UTC
+Nmap scan report for www.ikea.com (23.192.16.43)
+Host is up (0.012s latency).
+rDNS record for 23.192.16.43: a23-192-16-43.deploy.static.akamaitechnologies.com
+All 51 scanned ports on www.ikea.com (23.192.16.43) are filtered
+
+Nmap done: 1 IP address (1 host up) scanned in 12.68 seconds
+
+
+
+
+
+
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F www.ikea.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-24 00:27 UTC
+Nmap scan report for www.ikea.com (23.192.16.43)
+Host is up (0.012s latency).
+rDNS record for 23.192.16.43: a23-192-16-43.deploy.static.akamaitechnologies.com
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 12.99 seconds

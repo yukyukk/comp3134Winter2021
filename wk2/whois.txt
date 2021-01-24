@@ -1,0 +1,212 @@
+#1
+ Domain Information
+
+    Name: NBA.COM
+    Registry Domain ID: 966915_DOMAIN_COM-VRSN
+    Domain Status:
+
+    clientTransferProhibited
+    Nameservers:
+
+    A1-148.AKAM.NET
+
+    A12-65.AKAM.NET
+
+    A16-64.AKAM.NET
+
+    A18-65.AKAM.NET
+
+    A5-65.AKAM.NET
+
+    A7-67.AKAM.NET
+
+Dates
+
+    Registry Expiration: 2021-11-27 05:00:00 UTC
+    Created: 1994-11-28 05:00:00 UTC
+
+Registrar Information
+
+    Name: CSC Corporate Domains, Inc.
+    IANA ID: 299
+    Abuse contact email: domainabuse@cscglobal.com
+    Abuse contact phone: tel:8887802723 
+
+DNSSEC Information
+
+    Delegation Signed: Unsigned
+
+Authoritative Servers
+
+    Registry Server URL: https://rdap.verisign.com/com/v1/domain/nba.com
+    Last updated from Registry RDAP DB: 2021-01-23 06:30:25 UTC
+    Registrar Server URL: https://apis.cscglobal.com/dbs/rdap-api/v1/domain/NBA.COM 
+
+-------------------
+
+#2
+ Domain Information
+
+    Name: GOOGLE.COM
+    Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+    Domain Status:
+
+    clientDeleteProhibited
+
+    clientTransferProhibited
+
+    clientUpdateProhibited
+
+    serverDeleteProhibited
+
+    serverTransferProhibited
+
+    serverUpdateProhibited
+    Nameservers:
+
+    NS1.GOOGLE.COM
+
+    NS2.GOOGLE.COM
+
+    NS3.GOOGLE.COM
+
+    NS4.GOOGLE.COM
+
+Dates
+
+    Registry Expiration: 2028-09-14 04:00:00 UTC
+    Created: 1997-09-15 04:00:00 UTC
+
+Registrar Information
+
+    Name: MarkMonitor Inc.
+    IANA ID: 292
+    Abuse contact email: abusecomplaints@markmonitor.com
+    Abuse contact phone: +1.2083895770 
+
+DNSSEC Information
+
+    Delegation Signed: Unsigned
+
+Authoritative Servers
+
+    Registry Server URL: https://rdap.verisign.com/com/v1/domain/google.com
+    Last updated from Registry RDAP DB: 2021-01-23 06:43:45 UTC
+    Registrar Server URL: https://rdap.markmonitor.com/rdap/domain/GOOGLE.COM
+    Last updated from Registrar RDAP DB: 2021-01-05 05:11:32 UTC
+
+
+
+------------
+#3
+ Domain Information
+
+    Name: GBC.COM
+    Registry Domain ID: 319149_DOMAIN_COM-VRSN
+    Domain Status:
+
+    clientTransferProhibited
+    Nameservers:
+
+    NS1-06.AZURE-DNS.COM
+
+    NS2-06.AZURE-DNS.NET
+
+    NS3-06.AZURE-DNS.ORG
+
+    NS4-06.AZURE-DNS.INFO
+
+Dates
+
+    Registry Expiration: 2021-06-25 04:00:00 UTC
+    Created: 1997-06-26 04:00:00 UTC
+
+Registrar Information
+
+    Name: CSC Corporate Domains, Inc.
+    IANA ID: 299
+    Abuse contact email: domainabuse@cscglobal.com
+    Abuse contact phone: tel:8887802723 
+
+DNSSEC Information
+
+    Delegation Signed: Unsigned
+
+Authoritative Servers
+
+    Registry Server URL: https://rdap.verisign.com/com/v1/domain/gbc.com
+    Last updated from Registry RDAP DB: 2021-01-23 06:43:45 UTC
+    Registrar Server URL: https://apis.cscglobal.com/dbs/rdap-api/v1/domain/GBC.COM 
+
+
+------------
+#4
+ Domain Information
+
+    Name: BLIZZARD.COM
+    Registry Domain ID: 2180864_DOMAIN_COM-VRSN
+    Domain Status:
+
+    clientTransferProhibited
+    Nameservers:
+
+    NS-EAST.CERF.NET
+
+    NS-WEST.CERF.NET
+
+Dates
+
+    Registry Expiration: 2021-12-08 05:00:00 UTC
+    Created: 1994-12-09 05:00:00 UTC
+
+DNSSEC Information
+
+    Delegation Signed: Unsigned
+
+Authoritative Servers
+
+    Registry Server URL: https://rdap.verisign.com/com/v1/domain/blizzard.com
+    Registrar Server URL: https://rdap.networksolutions.com/rdap/domain/BLIZZARD.COM 
+
+
+
+#5
+---------
+ Domain Information
+
+    Name: MCDONALDS.COM
+    Registry Domain ID: 1925275_DOMAIN_COM-VRSN
+    Domain Status:
+
+    clientTransferProhibited
+    Nameservers:
+
+    NS-1445.AWSDNS-52.ORG
+
+    NS-1685.AWSDNS-18.CO.UK
+
+    NS-76.AWSDNS-09.COM
+
+    NS-840.AWSDNS-41.NET
+
+Dates
+
+    Registry Expiration: 2021-07-11 04:00:00 UTC
+    Created: 1994-07-12 04:00:00 UTC
+
+Registrar Information
+
+    Name: CSC Corporate Domains, Inc.
+    IANA ID: 299
+    Abuse contact email: domainabuse@cscglobal.com
+    Abuse contact phone: tel:8887802723 
+
+DNSSEC Information
+
+    Delegation Signed: Unsigned
+
+Authoritative Servers
+
+    Registry Server URL: https://rdap.verisign.com/com/v1/domain/mcdonalds.com
+    Last updated from Registry RDAP DB: 2021-01-23 06:43:45 UTC
+    Registrar Server URL: https://apis.cscglobal.com/dbs/rdap-api/v1/domain/MCDONALDS.COM 

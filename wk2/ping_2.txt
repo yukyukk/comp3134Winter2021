@@ -1,0 +1,12 @@
+C:\>ping 138.197.134.101
+
+Pinging 138.197.134.101 with 32 bytes of data:
+Reply from 138.197.134.101: bytes=32 time=3ms TTL=52
+Reply from 138.197.134.101: bytes=32 time=2ms TTL=52
+Reply from 138.197.134.101: bytes=32 time=2ms TTL=52
+Reply from 138.197.134.101: bytes=32 time=3ms TTL=52
+
+Ping statistics for 138.197.134.101:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 3ms, Average = 2ms
