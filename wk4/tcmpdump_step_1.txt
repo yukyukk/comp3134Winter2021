@@ -1,0 +1,29 @@
+06:46:10.709910 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38767712:38768068, ack 24437, win 501, length 356
+06:46:10.710041 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38768068:38768280, ack 24437, win 501, length 212
+06:46:10.710128 IP bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452 > 138.197.134.101.ssh: Flags [.], ack 38765644, win 1021, length 0
+06:46:10.710237 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38768280:38768636, ack 24437, win 501, length 356
+06:46:10.710360 IP bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452 > 138.197.134.101.ssh: Flags [.], ack 38766212, win 1026, length 0
+06:46:10.710465 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38768636:38768848, ack 24437, win 501, length 212
+06:46:10.710526 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38768848:38769036, ack 24437, win 501, length 188
+06:46:10.710654 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38769036:38769416, ack 24437, win 501, length 380
+06:46:10.710782 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38769416:38769628, ack 24437, win 501, length 212
+06:46:10.710842 IP bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452 > 138.197.134.101.ssh: Flags [.], ack 38766780, win 1024, length 0
+06:46:10.711051 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38769628:38769984, ack 24437, win 501, length 356
+06:46:10.711190 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38769984:38770196, ack 24437, win 501, length 212
+06:46:10.711242 IP bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452 > 138.197.134.101.ssh: Flags [.], ack 38767500, win 1021, length 0
+06:46:10.711404 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38770196:38770552, ack 24437, win 501, length 356
+06:46:10.711483 IP bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452 > 138.197.134.101.ssh: Flags [.], ack 38768068, win 1026, length 0
+06:46:10.711618 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38770552:38770908, ack 24437, win 501, length 356
+06:46:10.711749 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38770908:38771120, ack 24437, win 501, length 212
+06:46:10.711846 IP bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452 > 138.197.134.101.ssh: Flags [.], ack 38768636, win 1024, length 0
+06:46:10.711906 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38771120:38771332, ack 24437, win 501, length 212
+06:46:10.712060 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38771332:38771688, ack 24437, win 501, length 356
+06:46:10.712123 IP bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452 > 138.197.134.101.ssh: Flags [.], ack 38769416, win 1021, length 0
+06:46:10.712252 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38771688:38772044, ack 24437, win 501, length 356
+06:46:10.712381 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38772044:38772256, ack 24437, win 501, length 212
+06:46:10.712506 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38772256:38772468, ack 24437, win 501, length 212
+06:46:10.712597 IP bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452 > 138.197.134.101.ssh: Flags [.], ack 38769628, win 1026, length 0
+06:46:10.712687 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38772468:38772824, ack 24437, win 501, length 356
+06:46:10.712849 IP bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452 > 138.197.134.101.ssh: Flags [P.], seq 24437:24473, ack 38769628, win 1026, length 36
+06:46:10.712970 IP bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452 > 138.197.134.101.ssh: Flags [.], ack 38770196, win 1024, length 0
+06:46:10.712992 IP 138.197.134.101.ssh > bras-vprn-toroon474aw-lp130-02-174-88-169-56.dsl.bell.ca.55452: Flags [P.], seq 38772824:38773036, ack 24473, win 501, length 212
