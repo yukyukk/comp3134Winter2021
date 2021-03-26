@@ -1,0 +1,3 @@
+The error describes an error where a directory path with 'hello' cannot be found.
+
+The page gives the path of the php file, as well as the line number of the code being run.

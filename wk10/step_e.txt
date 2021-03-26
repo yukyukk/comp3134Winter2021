@@ -1,0 +1,3 @@
+Used basename() in the print statement so that folders above the html directory are not shown.
+
+Used an if statement with file_exists(). If the folder does not exist the output will simply be the query string. If it does exist it will display the directory as normal.

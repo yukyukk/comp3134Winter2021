@@ -1,0 +1,3 @@
+The page shows the directory structure of server two levels up, so in the /var/ folder.
+
+This shows a number of directories labelled accordingly which I assume holds corresponding information for anyone seeking it.

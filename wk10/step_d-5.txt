@@ -1,0 +1,3 @@
+This shows a not found error for the directory structure.
+
+Again it shows what doesn't exist in the structure which could be considered sensitive if a brute force type attack is looking for something.

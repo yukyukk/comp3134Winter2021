@@ -1,0 +1,4 @@
+1) The value of the form is read and upon that word suggestions are made based on the characters typed.
+2) No suggestions are made
+3) No suggestions are made. The page interprets the %27 as a ' and suggests searches based on the converted string.
+4) No suggestions are made. The page interprets the %27 and noresult? is added after the base url.

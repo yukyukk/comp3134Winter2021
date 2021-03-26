@@ -1,0 +1,3 @@
+Mitigated the problem by creating a new php script inside the file, and added a php comment with the details.
+
+Viewing the page source will not display the php comments.
